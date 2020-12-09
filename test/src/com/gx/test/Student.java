@@ -4,4 +4,5 @@ public class Student {
     String msg;
     String name;
     int age;
+    String test;
 }
