@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e404e3c-a526-43b3-b4d7-4519055a1fbc" name="Default Changelist" comment="信息" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Develop\Maven\repository" />
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\Develop\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lPQZgHGWrt1QejY5gu7Jt2jTgy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e404e3c-a526-43b3-b4d7-4519055a1fbc" name="Default Changelist" comment="" />
+      <created>1607496303310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607496303310</updated>
+      <workItem from="1607496304463" duration="1583000" />
+      <workItem from="1607498104577" duration="1748000" />
+    </task>
+    <task id="LOCAL-00001" summary="哈哈哈哈">
+      <created>1607497186629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607497186629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="滚滚滚">
+      <created>1607498768792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607498768792</updated>
+    </task>
+    <task id="LOCAL-00003" summary="信息">
+      <created>1607499075346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607499075346</updated>
+    </task>
+    <task id="LOCAL-00004" summary="信息">
+      <created>1607499104152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607499104152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="信息">
+      <created>1607499144604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607499144604</updated>
+    </task>
+    <task id="LOCAL-00006" summary="信息">
+      <created>1607499505496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607499505496</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="哈哈哈哈" />
+    <MESSAGE value="滚滚滚" />
+    <MESSAGE value="信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="信息" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="135" key="FileChooserDialogImpl" timestamp="1607496576296">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="559" y="135" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1607496576296" />
+    <state x="327" y="104" width="803" height="510" key="MergeDialog" timestamp="1607497808463">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="327" y="104" width="803" height="510" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1607497808463" />
+    <state x="634" y="182" width="521" height="322" key="MultipleFileMergeDialog" timestamp="1607497808472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="634" y="182" width="521" height="322" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1607497808472" />
+    <state x="509" y="158" key="Vcs.Push.Dialog.v2" timestamp="1607499541144">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="509" y="158" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607499541144" />
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607499414261">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1607499414261" />
+  </component>
+</project>
